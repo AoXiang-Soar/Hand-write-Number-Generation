@@ -42,3 +42,7 @@ python main.py
 ## Contribution
 
 If you find this repository helpful, please kindly give us a free ⭐.(\*^ω^\*)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
